@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsRequest xmlns="http://rtaylor02.com/courses"
+                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                         xsi:schemaLocation="http://rtaylor02.com/course course-details.xsd">
+
+    <id>1</id>
+    <courseName>Master Java SOAP Web Services</courseName>
+</GetCourseDetailsRequest>
